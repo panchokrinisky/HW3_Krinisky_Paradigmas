@@ -3,5 +3,5 @@
 Compilacion del codigo:
   Hay un Makefile para cada Ejercicio, se debe cambiar el directorio al del ejercicio en la terminal y hacer:
   - make
-  - ./ej<num del ejercicio>
+  - ./ej(numero del ejercicio)
   - make clean
